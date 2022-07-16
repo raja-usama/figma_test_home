@@ -1,0 +1,1 @@
+class Payment2Model {}

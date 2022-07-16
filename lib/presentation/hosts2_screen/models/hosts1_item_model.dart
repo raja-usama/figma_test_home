@@ -1,0 +1,1 @@
+class Hosts1ItemModel {}
